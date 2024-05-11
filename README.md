@@ -19,7 +19,7 @@ The **Emeky Students** app offers a wide range of features designed to enhance t
 - **Access to Learning Systems:** Connect to various educational platforms and resources through the app.
 
 ## Demo Video
-[![Watch the Video](https://img.youtube.com/vi/UFjF4XP2_ZM/0.jpg)](https://www.youtube.com/watch?v=UFjF4XP2_ZM "Watch the Video")
+Check out our demo video here: [Watch the Demo Video on YouTube](https://www.youtube.com/watch?v=UFjF4XP2_ZM)
 
 ## App Display
 <p float="left">
